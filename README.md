@@ -6,6 +6,7 @@
 * [2. Investigación UX](#2InvestigaciónUX)
 * [3. Definición del producto](#3-Definición)
 * [4. Prototipos](#4-Prototipos)
+* [5. Producto Final](#5-ProdFinal)
 
 ## 1. Resumen del Proyecto
 
@@ -46,7 +47,7 @@ En el muro los usuarios pueden publicar, editar y eliminar post. Esto se permite
 
 ![Captura de Pantalla 2023-04-10 a la(s) 19 35 48](https://github.com/macarenapazg/DEV004-social-network/assets/113479365/50a6dc74-d7ad-4ec1-9a2c-109e636a37cd)
 
-## 4. Producto Final: 
+## 5. Producto Final: 
 
 ![Captura de Pantalla 2023-05-29 a la(s) 14 47 06](https://github.com/macarenapazg/DEV004-social-network/assets/113479365/86d82a40-bb8f-4220-859e-f468a739fc0f)
 
