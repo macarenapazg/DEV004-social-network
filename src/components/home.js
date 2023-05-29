@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/no-cycle, import/named
 import { onNavigate } from '../main.js';
 
 export const home = () => {
